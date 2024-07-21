@@ -53,31 +53,31 @@ Features:
 - Model Training: Evaluated models including Logistic Regression, Decision Trees, Random Forests, and Gradient Boosting.
 - Model Evaluation: Assessed model performance using metrics such as confusion matrix, ROC-AUC, and cross-validation scores.
 ## Conclusion
-### Paperless Billing:
+- ### Paperless Billing:
 
 Customers who are not on paperless billing tend to have lower churn rates (correlation of approximately -0.98).
 However, customers on paperless billing still exhibit a slightly higher churn rate (correlation of around -0.91).
 #### Insight:
 Paperless billing significantly impacts churn behavior, and customers who prefer paperless billing are more likely to churn.
-### Content Type:
+- ### Content Type:
 
 Movie content has the lowest churn rate, followed by TV shows and both.
 Users who subscribe to both movie and TV show content have a higher churn rate.
 #### Insight:
 Consider tailoring content recommendations based on user preferences to reduce churn.
-### Genre Preferences:
+- ### Genre Preferences:
 
 Comedy content has the highest churn rate, while genres like Sci-Fi, drama, fantasy, and action have lower churn rates.
 Most users prefer comedy, followed by fantasy, drama, action, and Sci-Fi.
 #### Insight:
 Personalizing content offerings based on genre preferences can improve retention.
-### Parental Control and Subtitles:
+- ### Parental Control and Subtitles:
 
 High churn occurs among users with no parental control and no subtitle enabled.
 Many users have both parental control and subtitles enabled.
 #### Insight:
 Enhancing parental control features and ensuring subtitle availability may positively impact retention.
-### Correlations:
+- ### Correlations:
 
 #### Negative correlations:
 AccountAge, Viewinghoursperweek, Averageviewduration, and Contentdownloadpermonth are associated with lower churn rates.
